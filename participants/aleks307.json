@@ -1,0 +1,14 @@
+{
+  "name": "Александр",
+  "github": "@Aleks307",
+  "birthDate": "11.06.2005",
+  "direction": "Backend, frontend",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "html"
+  ],
+  "fact": "Интересно делать  интересные проекты, интересно",
+  "projectTitle": "",
+  "projectDescription": ""
+}
