@@ -1,0 +1,13 @@
+{
+  "name": "Тимофей",
+  "github": "@timofeyant",
+  "birthDate": "12.02.2008",
+  "direction": "Backend",
+  "skills": [
+    "С#",
+    "Python"
+  ],
+  "fact": "Мне интересны разработка игр и другие интерактивные проекты",
+  "projectTitle": "",
+  "projectDescription": ""
+}
