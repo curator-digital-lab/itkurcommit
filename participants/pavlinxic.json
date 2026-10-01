@@ -1,0 +1,15 @@
+{
+  "name": "Александр",
+  "github": "@pavlinxic",
+  "birthDate": "05.04.2008",
+  "direction": "Frontend, ML",
+  "skills": [
+    "HTML",
+    "CSS",
+    "PYTHON",
+    "SQL"
+  ],
+  "fact": "Хочу слетать в космос.",
+  "projectTitle": "",
+  "projectDescription": ""
+}
