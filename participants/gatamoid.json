@@ -1,0 +1,14 @@
+{
+  "name": "Гатам",
+  "github": "@GatamOID",
+  "birthDate": "28.09.2006",
+  "direction": "Backend",
+  "skills": [
+    "C++",
+    "Python",
+    "Luau"
+  ],
+  "fact": "Интересно прорабатывать серверные части продуктов и разрабатывать алгоритмы",
+  "projectTitle": "",
+  "projectDescription": ""
+}
